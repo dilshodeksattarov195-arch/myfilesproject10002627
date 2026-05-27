@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorctringify",
+        "uuid": 7852103,
+        "checksum": "gdljy"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
